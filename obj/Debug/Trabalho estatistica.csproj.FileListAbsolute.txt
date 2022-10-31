@@ -1,0 +1,7 @@
+C:\Users\2022100169\source\repos\Trabalho estatistica\Trabalho estatistica\bin\Debug\Trabalho estatistica.exe.config
+C:\Users\2022100169\source\repos\Trabalho estatistica\Trabalho estatistica\bin\Debug\Trabalho estatistica.exe
+C:\Users\2022100169\source\repos\Trabalho estatistica\Trabalho estatistica\bin\Debug\Trabalho estatistica.pdb
+C:\Users\2022100169\source\repos\Trabalho estatistica\Trabalho estatistica\obj\Debug\Trabalho estatistica.csproj.AssemblyReference.cache
+C:\Users\2022100169\source\repos\Trabalho estatistica\Trabalho estatistica\obj\Debug\Trabalho estatistica.csproj.CoreCompileInputs.cache
+C:\Users\2022100169\source\repos\Trabalho estatistica\Trabalho estatistica\obj\Debug\Trabalho estatistica.exe
+C:\Users\2022100169\source\repos\Trabalho estatistica\Trabalho estatistica\obj\Debug\Trabalho estatistica.pdb
